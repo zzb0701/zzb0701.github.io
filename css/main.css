@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff441f;
+  background: #4af54b;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2581,7 +2581,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("/images/background.jpg");
+  background: url("https://ts1.cn.mm.bing.net/th/id/R-C.41338f8e98d0359408de55eec6dc86b1?rik=aUfolKPIqTT1kQ&riu=http%3a%2f%2fimg.pconline.com.cn%2fimages%2fupload%2fupc%2ftx%2fwallpaper%2f1209%2f10%2fc1%2f13759445_1347259225733.jpg&ehk=%2brEsLMqaANvHn2yODYhsY1qW8oh2id0WUcxVQcS5dVA%3d&risl=&pid=ImgRaw&r=0");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
